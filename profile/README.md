@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/readme-header-1280x320@2x.png" width="100%" alt="Nori Oppi: a seal pup flying through space">
-</p>
-
-<p align="center">
   <code>software · reverse engineering · embedded systems</code>
 </p>
 
